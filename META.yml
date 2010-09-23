@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Statistics-CaseResampling
-version:            0.02
+version:            0.03
 abstract:           Efficient resampling
 author:
     - Steffen Mueller <smueller@cpan.org>

@@ -6,6 +6,6 @@ Makefile.PL
 MANIFEST			This list of files
 mt.h
 ppport.h
-t/Statistics-CaseResampling.t
+t/01all.t
 typemap
 META.yml                                 Module meta-data (added by MakeMaker)

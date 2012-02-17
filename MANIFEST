@@ -13,5 +13,7 @@ RdGen.xs.inc
 README
 stats.h
 t/01all.t
+t/02stats.t
 typemap
-META.yml                                 Module meta-data (added by MakeMaker)
+META.yml                                 Module YAML meta-data (added by MakeMaker)
+META.json                                Module JSON meta-data (added by MakeMaker)

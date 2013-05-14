@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Statistics-CaseResampling
-version:            0.14
+version:            0.15
 abstract:           Efficient resampling and calculation of medians with confidence intervals
 author:
     - Steffen Mueller <smueller@cpan.org>
